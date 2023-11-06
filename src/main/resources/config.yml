@@ -1,0 +1,3 @@
+chatBubbleFormat:
+  - "&fGracz &6[player]"
+  - "&fNapisał: &e[message]"
